@@ -17,4 +17,21 @@ body{
     background-color: white;
     margin: 0 auto;
     height: 500px;
+    border-radius: 16px;
+    box-shadow: -1px 1px 21px 5px rgba(0,0,0,0.55);
+}
+#temp{
+    display: flex;
+    margin: 80px;
+    justify-content: center;
+}
+#devcode, .header-p__gt{
+    text-transform: uppercase;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+.header-p__gt{
+    background-color: rgba(9, 9, 139, 0.8);
+    color: white;
+
 }
