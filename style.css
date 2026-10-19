@@ -4,3 +4,17 @@
 .wrapper-header__wrapper{
     display: flex;
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #ccc;
+}
+.wrapper{
+    width: 30%;
+    background-color: white;
+    margin: 0 auto;
+    height: 500px;
+}
